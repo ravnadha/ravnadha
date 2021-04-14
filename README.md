@@ -1,4 +1,4 @@
-### Hi there 👋
+Apple blog providing news, reviews, tutorials, and jailbreak info, about everything iPhone, iPad, Apple Watch, Apple TV, Mac and iOS. iPod Repair, iPhone Repair, iPad Repair, Apple iPhone Repair Tips.
 
 <!--
 **ravnadha/ravnadha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
